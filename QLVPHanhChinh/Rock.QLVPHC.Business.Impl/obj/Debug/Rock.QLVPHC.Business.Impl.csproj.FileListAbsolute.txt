@@ -1,0 +1,6 @@
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Business.Impl\bin\Debug\Rock.QLVPHC.Business.Impl.dll
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Business.Impl\bin\Debug\Rock.QLVPHC.Business.Impl.pdb
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Business.Impl\obj\Debug\Rock.QLVPHC.Business.Impl.csprojResolveAssemblyReference.cache
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Business.Impl\obj\Debug\Rock.QLVPHC.Business.Impl.csproj.CoreCompileInputs.cache
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Business.Impl\obj\Debug\Rock.QLVPHC.Business.Impl.dll
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Business.Impl\obj\Debug\Rock.QLVPHC.Business.Impl.pdb

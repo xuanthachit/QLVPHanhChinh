@@ -1,0 +1,9 @@
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\bin\Debug\QLVPHC.dacpac
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\bin\Debug\QLVPHC.dll
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\bin\Debug\QLVPHC.pdb
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\obj\Debug\Model.xml
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\obj\Debug\refactor.xml
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\obj\Debug\postdeploy.sql
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\obj\Debug\predeploy.sql
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\obj\Debug\QLVPHC.dll
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\QLVPHC\obj\Debug\QLVPHC.pdb

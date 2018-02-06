@@ -1,0 +1,5 @@
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Repository\bin\Debug\Rock.QLVPHC.Repository.dll
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Repository\bin\Debug\Rock.QLVPHC.Repository.pdb
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Repository\obj\Debug\Rock.QLVPHC.Repository.csproj.CoreCompileInputs.cache
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Repository\obj\Debug\Rock.QLVPHC.Repository.dll
+E:\GitHub\QLVPHanhChinh\QLVPHanhChinh\Rock.QLVPHC.Repository\obj\Debug\Rock.QLVPHC.Repository.pdb
